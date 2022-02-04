@@ -127,6 +127,6 @@ A big thank you to the author and the Insomni'hack team for the event.
 https://www.adobe.com/content/dam/acom/en/devnet/pdf/pdfs/PDF32000_2008.pdf
 https://ghostscript.com/~tor/pdfref17.pdf
 https://www.adobe.com/content/dam/acom/en/devnet/pdf/adobe_supplement_iso32000.pdf
-https://www.pdf-insecurity.org/download/exploits-encryption/exploits.tgz
+https://www.pdf-insecurity.org/
 https://hxp.io/blog/93/Insomnihack-2022-PDF-Xfiltration/
 https://github.com/p4-team/ctf/tree/master/2022-01-29-insomnihack/pdf-xfiltration
