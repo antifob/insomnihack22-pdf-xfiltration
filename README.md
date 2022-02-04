@@ -1,4 +1,4 @@
-# Insomni'hack Teaser 2022 - PDF Xfiltration
+# Insomni'hack Teaser CTF 2022 - PDF Xfiltration
 
 **This writeup is written after the event ended.**
 
